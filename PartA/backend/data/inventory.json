@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "product_name": "Steel Rod",
+    "category": "Metal",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "product_name": "Copper Wire",
+    "category": "Metal",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "product_name": "Plastic Pipe",
+    "category": "Plastic",
+    "price": 50
+  },
+  {
+    "id": 4,
+    "product_name": "Aluminum Sheet",
+    "category": "Metal",
+    "price": 150
+  },
+  {
+    "id": 5,
+    "product_name": "PVC Pipe",
+    "category": "Plastic",
+    "price": 80
+  }
+]
